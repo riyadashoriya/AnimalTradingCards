@@ -1,0 +1,32 @@
+#imageSize {
+  width: 300px;
+}
+
+#container {
+  border: 4px solid black;
+  padding: 10px;
+}
+
+#card {
+  border: 2px solid red;
+}
+
+h1, #imageSize, #card {
+  padding: 10px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+#interesting-fact {
+  font-style: italic;
+}
+
+#facts > li > span {
+  font-weight: 700;
+}
+
+.animal-info {
+  margin: 10px;
+}
