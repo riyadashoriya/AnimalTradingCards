@@ -5,14 +5,14 @@ animal.
 ![alt text](https://github.com/riyadashoriya/AnimalTradingCards/blob/master/design-prototype.jpg "Mockup Preview")
 
 
-###Content:
+### Content:
 
-* index.html - This file contains HTML code to render the content on web browser.
-* styles.css - This file contains the CSS code for the web page.
+* _index.html_ - This file contains HTML code to render the content on web browser.
+* _styles.css_ - This file contains the CSS code for the web page.
 
-###Working:
+### Working:
 Run the index.html file to check the website on web browser
 
 
-###Licence
+### Licence
 The content of index.html is provided by Udacity
