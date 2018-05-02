@@ -1,10 +1,10 @@
 #imageSize {
-  width: 300px;
+  max-width: 300px;
 }
 
 @media screen and (max-width: 500px) {
   #imageSize {
-    width: 100px;
+    max-width: 100px;
     display: block;
     margin: auto;
   }
