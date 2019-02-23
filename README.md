@@ -1,6 +1,7 @@
 # AnimalTradingCards
 Udacity's Front End Web Developer Nanodegree CH1-Lesson10. This is a web based trading card depicting my favorite
-animal.
+animal. Animal Trading card is published via gh-pages at https://riyadashoriya.github.io/AnimalTradingCards/
+
 
 ## Example Preview:
 ![alt text](https://github.com/riyadashoriya/AnimalTradingCards/blob/master/design-prototype.jpg "Mockup Preview")
